@@ -3,7 +3,7 @@
 ##### Just a software engineer trying to change the hello world one commit at a time 😀
 
 - 👀 You can fine me at
-  - [Youtube](https://www.youtube.com/channel/UCUwA7VxRo-uw2eQJ52EkKlQ)
+  - <a href="https://www.youtube.com/channel/UCUwA7VxRo-uw2eQJ52EkKlQ" target="_blank">Youtube</a> [Youtube](https://www.youtube.com/channel/UCUwA7VxRo-uw2eQJ52EkKlQ)
   - [Medium](https://floydfajones.medium.com)
   - [Personal Website](https://tdotcode.com) <--- Coming soon 🤫
 
