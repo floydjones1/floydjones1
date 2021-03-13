@@ -5,7 +5,7 @@
 - 👀 You can fine me at
   - [Youtube](https://www.youtube.com/channel/UCUwA7VxRo-uw2eQJ52EkKlQ)
   - [Medium](https://floydfajones.medium.com)
-  - [Personal Website](https://tdotcode.com) <--- Coming soon 🤫
+  - [Personal Website](https://tdotcode.com)
 
 - 🌱 I’m currently learning and have interest towards
   - GraphQL/Apollo
