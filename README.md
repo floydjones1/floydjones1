@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning and have interest towards
   - GraphQL/Apollo
-  - Deno
+  - Kubernetes
   - Next.js
   - Serverless
 
