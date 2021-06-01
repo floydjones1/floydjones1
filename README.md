@@ -8,9 +8,9 @@
   - [Personal Website](https://tdotcode.com)
 
 - 🌱 I’m currently learning and have interest towards
-  - GraphQL/Apollo
+  - gRPC
   - Kubernetes
-  - Next.js
+  - Threejs/React
   - Serverless
 
 - 📫 How to reach me: You can reach me at floyd-jones1@hotmail.com
